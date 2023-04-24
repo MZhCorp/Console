@@ -2,7 +2,9 @@
 
 namespace BotConsoleProject.Controllers
 {
+    [Route("[controller]")]
     public class UserController : ControllerBase
-    { 
+    {
+
     }
 }
